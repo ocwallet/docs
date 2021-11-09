@@ -14,7 +14,7 @@ When the crypto asset you sent is transferred to your account, you can transact 
 
 
 
-![](../.gitbook/assets/1.png)
+![](<../.gitbook/assets/1 (2).png>)
 
 ## Exchange&#x20;
 
