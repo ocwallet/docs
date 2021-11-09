@@ -8,7 +8,7 @@
 
 
 
-After registering to the system with your user information, you can earn 1800 BUSD per year by putting 1000 OCW you will receive from the Exchange section into the STAKE process for 360 days!
+After registering to the system with your user information, you can earn 1800 OCW per year by putting 1000 OCW you will receive from the Exchange section into the STAKE process for 360 days!
 
 
 
