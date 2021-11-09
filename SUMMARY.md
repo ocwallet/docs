@@ -6,5 +6,3 @@
 * [Contact Us!](contact-us/README.md)
   * [Bussiness Partnership](contact-us/bussiness-partnership.md)
   * [Google Play App](contact-us/ocw-google-play-app.md)
-
-## Group 1
