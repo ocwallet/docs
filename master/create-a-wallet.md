@@ -4,8 +4,16 @@
 
 ## Add An Wallet
 
-After logging into your account with your user information, you need to click on the Wallets title next to the title where your user information appears and say Add Wallet.
 
 
+After logging in to your account with your user information, go to the wallet design.
 
-Wallet Name : It functions as a reminder name that you will give to the wallet address you have added. Wallet Address : It is the link of your wallet address.
+![](<../.gitbook/assets/1 (3).png>)
+
+Then we go to the wallet creation page for the address where we will shoot by saying "Add Wallet".
+
+![](../.gitbook/assets/2.png)
+
+Wallet Name: This is the field that acts as a reminder if you are going to add more than one withdrawal address, for example, my BINANCE wallet.
+
+Wallet Address: The field where you will enter the shooting address of the wallet address where you will shoot, created specifically for the corresponding crypto asset.

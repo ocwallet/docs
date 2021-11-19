@@ -3,7 +3,7 @@ cover: .gitbook/assets/1415x475 -  get-started.jpg
 coverY: 0
 ---
 
-# Online Cold Wallet Info
+# Get Started
 
 Online Cold Wallet
 
@@ -14,3 +14,7 @@ It is the first online cold wallet service in the world that has kept up with to
 
 
 Online Cold Wallet was launched in 2019 to keep up with today's technology to put an end to this situation. You can make instant transactions while keeping your crypto assets safe.
+
+
+
+TR : [https://ocw.gitbook.io/ocwtr/](https://ocw.gitbook.io/ocwtr/)
