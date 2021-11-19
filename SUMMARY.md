@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Get Started](README.md)
+* [Language](README.md)
+* [Get Started](<README (1).md>)
   * [Create A Wallet](master/create-a-wallet.md)
   * [Buy Coin](master/buy-coin.md)
   * [Trade Earn Win](master/trade-earn-win.md)
