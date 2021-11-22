@@ -12,7 +12,7 @@ After creating your user information, contact the wallet address created specifi
 
 ## Exchange&#x20;
 
-![](<../.gitbook/assets/2 (1).png>)
+![](../.gitbook/assets/2.png)
 
 When you come to the From Option, enter the amount you want to purchase.
 

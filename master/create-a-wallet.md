@@ -12,7 +12,7 @@ After logging in to your account with your user information, go to the wallet de
 
 Then we go to the wallet creation page for the address where we will shoot by saying "Add Wallet".
 
-![](../.gitbook/assets/2.png)
+![](<../.gitbook/assets/2 (1).png>)
 
 Wallet Name: This is the field that acts as a reminder if you are going to add more than one withdrawal address, for example, my BINANCE wallet.
 
