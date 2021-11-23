@@ -6,14 +6,12 @@
 
 
 
-Individual or group organizations that want to cooperate with us can contact us via the link below and get detailed information on the subject.
+Support requests : info@onlinecoldwallet.com
+
+Cooperation requests : market@onlinecoldwallet.com
+
+Collaboration telegram : @onlinecwallet
 
 
 
-Remember that the OCW board does not send you the first message, so to protect yourself from scammers, provide support and security by asking the OCW board about your collaborative conversations.
-
-
-
-Bussiness MAIL : market@onlinecoldwallet.com
-
-Bussiness Telegram : @onlinecwallet
+Online Cold Wallet administration unit will never send you the first message, in your support requests / cooperation requests, please verify the account that contacted you with the help of the administrators in our official Telegram channel or via info@onlinecoldwallet.com.
