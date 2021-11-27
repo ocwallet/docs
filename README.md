@@ -8,18 +8,18 @@
 
 ![](<.gitbook/assets/1 (1).png>)
 
-After creating your user information, contact the wallet address created specifically for you from the **Dashboard** section. Send **USDT with ERC20** network or **BUSD or BNB with BSC20** network to the wallet address you have **reached**. Then go to the **trade** tab.
+_After creating your user information, contact the wallet address created specifically for you from_ _the_ **Dashboard** _section. Send_ **USDT with ERC20** _network or_ **BUSD or BNB with BSC20** _network to the wallet address you have_ **reached**. _Then go to the_ **trade** _tab._
 
 ## Exchange&#x20;
 
 ![](<.gitbook/assets/2 (1) (1).png>)
 
-When you come to the From Option, enter the amount you want to purchase.
+_When you come to the From Option, enter the amount you want to purchase._
 
-Example: 1000 USDT&#x20;
+_Example: 1000 USDT _
 
-Then select the USDT asset from the Select Coin section.
+_Then select the USDT asset from the Select Coin section._
 
+__
 
-
-Then select the Select Coin you want to buy for 1000 USDT and press the Swap button at the bottom of the page.
+_Then select the Select Coin you want to buy for 1000 USDT and press the Swap button at the bottom of the page._

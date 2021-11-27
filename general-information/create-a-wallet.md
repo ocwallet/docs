@@ -6,16 +6,16 @@
 
 
 
-After logging in to your account with your user information, go to the **wallet**.
+_After logging in to your account with your user information, go to the_ **wallet**.
 
 ![](<../.gitbook/assets/1 (3) (1).png>)
 
-Then we go to the wallet creation page for the address where we will shoot by saying **add wallet**.
+_Then we go to the wallet creation page for the address where we will shoot by saying_ **add wallet**.
 
 ![](<../.gitbook/assets/2 (1) (1) (1).png>)
 
-**Wallet Name **: This is the field that acts as a reminder if you are going to add more than one withdrawal address, for example, my Trust Wallet.
+**Wallet Name**: _This is the field that acts as a reminder if you are going to add more than one withdrawal address, for example, my Trust Wallet._
 
 
 
-**Wallet Address **: The field where you will enter the shooting address of the wallet address where you will shoot, created specifically for the corresponding crypto asset.
+**Wallet Address**: _The field where you will enter the shooting address of the wallet address where you will shoot, created specifically for the corresponding crypto asset._
