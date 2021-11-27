@@ -1,10 +1,16 @@
 # Table of contents
 
-* [Language](README.md)
-* [Get Started](<README (1).md>)
-  * [Buy Coin](master/buy-coin.md)
-  * [Trade Earn Win](master/trade-earn-win.md)
-  * [Create A Wallet](master/create-a-wallet.md)
+## GENERAL INFORMATION
+
+* [Buy Coin](README.md)
+* [Trade Earn Win](general-information/trade-earn-win.md)
+* [Create A Wallet](general-information/create-a-wallet.md)
+* [Crypto Withdrawal](general-information/crypto-withdrawal.md)
+
+## What is KYC and AUDIT
+
+* [KYC](what-is-kyc-and-audit/kyc.md)
+* [AUDIT](what-is-kyc-and-audit/audit.md)
 
 ## Contact Us
 

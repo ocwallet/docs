@@ -6,12 +6,12 @@
 
 
 
-Support requests : info@onlinecoldwallet.com
+**Support requests** : info@onlinecoldwallet.com
 
-Cooperation requests : market@onlinecoldwallet.com
+**Cooperation requests** : market@onlinecoldwallet.com
 
-Collaboration telegram : @onlinecwallet
+**Collaboration telegram** : @onlinecwallet
 
 
 
-Online Cold Wallet administration unit will never send you the first message, in your support requests / cooperation requests, please verify the account that contacted you with the help of the administrators in our official Telegram channel or via info@onlinecoldwallet.com.
+Online Cold Wallet administration unit will never send you the **first message**, in your support requests / cooperation requests, please **verify the account** that contacted you with the help of the **administrators** in our official **Telegram** channel or via **info@onlinecoldwallet.com**
