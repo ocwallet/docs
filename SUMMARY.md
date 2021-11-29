@@ -15,3 +15,7 @@
 ## Contact Us
 
 * [Bussiness Partnership](contact-us/bussiness-partnership.md)
+
+## Online Cold Wallet
+
+* [What is Online Cold Wallet?](online-cold-wallet/what-is-online-cold-wallet.md)
