@@ -10,7 +10,7 @@ _Head to the stake page with the panel on the left of the screen, it should be n
 
 
 
-**Package 1**: **OCW stake BUSD earn package**, _day limit is_ **120** _days._ **120% APR **
+**Package 1**: **OCW stake BUSD earn package**, _day limit is_ **120** _days._ **120% APR**&#x20;
 
 **Package 2**: **OCW stake OCW boiler package**, _day limit is_ **360** _days._ **360% APR**
 
@@ -32,8 +32,8 @@ _After entering the number you want to stake, select the day with the **select d
 
 
 
-_For such advantages, you can choose from dozens of crypto assets on the _**stake**_ page and earn daily, monthly and annual income._
+_For such advantages, you can choose from dozens of crypto assets on the_ **stake** _page and earn daily, monthly and annual income._
 
 ![These photos are representative as of the day they were taken, there may be changes in reward rates and crypto assets.](<../.gitbook/assets/1 (1) (1) (1).png>)
 
-**About early unlocking**: _Users can unlock and retrieve their tokens before expiration. In case of early exchange and redemption, the principal is returned to the spot account and the distributed yield is deducted from the refunded principal. It may take 48-72 hours for tokens to be credited to the account due to time zone differences._
+**About early unlocking**: _Users can unlock and retrieve their tokens before expiration. In case of early exchange and redemption, the principal is returned to the spot account and the distributed yield is deducted from the refunded principal. It may take **48-72 hours** for tokens to be credited to the account due to time zone differences._ If you want to cancel the advantage package before it expires, a **20%** deduction will be taken from your products. __&#x20;
