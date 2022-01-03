@@ -10,9 +10,9 @@ _Head to the stake page with the panel on the left of the screen, it should be n
 
 
 
-**Package 1**: **OCW stake BUSD earn package**, _day limit is_ **120** _days._ **90% APR**&#x20;
+**Package 1**: **OCW stake BUSD earn package**, _day limit is_ **120** _days._ **80% APR**&#x20;
 
-**Package 2**: **OCW stake OCW boiler package**, _day limit is_ **360** _days._ **270% APR**
+**Package 2**: **OCW stake OCW boiler package**, _day limit is_ **360** _days._ **240% APR**
 
 
 
