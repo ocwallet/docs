@@ -26,7 +26,9 @@ _You can stake a minimum of_ **50 OCW**, _there is_ **no maximum limit** _requir
 
 ![](../.gitbook/assets/3.png)
 
-_After entering the number you want to stake, select the day with the **select day** button and complete the process with the_ **stake now button** _at the bottom of the page._
+_After entering the number you want to stake, select the day with the **select day** button and complete the process with the_ **stake now button** _at the bottom of the page._\
+__\
+__It may take 0-12 hours for tokens to be credited to the account due to time zone differences.
 
 ## About Other Benefits
 
