@@ -10,12 +10,12 @@ _After logging in to your account with your user information, go to the_ **walle
 
 ![](<../.gitbook/assets/1 (3) (1).png>)
 
-_Then we go to the wallet creation page for the address where we will shoot by saying_ **add wallet**.
+_Then go to the_ **wallet creation** _page for the address you will withdraw by clicking on_ **add wallet**.
 
 ![](<../.gitbook/assets/2 (1) (1) (1).png>)
 
-**Wallet Name**: _This is the field that acts as a reminder if you are going to add more than one withdrawal address, for example, my Trust Wallet._
+**Wallet Name**: _This is the field that acts as a reminder if you are going to add more than one withdrawal address, for example, my X Wallet._
 
 
 
-**Wallet Address**: _The field where you will enter the shooting address of the wallet address where you will shoot, created specifically for the corresponding crypto asset._
+**Wallet Address**: _Your private wallet address where you will withdraw crypto._

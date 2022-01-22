@@ -4,12 +4,19 @@
 
 * [What is Online Cold Wallet?](README.md)
 
-## GENERAL INFORMATION
+## COMPUTER INFORMATION
 
-* [Buy Coin](<README (1).md>)
-* [Trade Earn Win](general-information/trade-earn-win.md)
-* [Create A Wallet](general-information/create-a-wallet.md)
-* [Crypto Withdrawal](general-information/crypto-withdrawal.md)
+* [Buy Coin](computer-information/buy-coin.md)
+* [Trade Earn Win](computer-information/trade-earn-win.md)
+* [Create A Wallet](computer-information/create-a-wallet.md)
+* [Crypto Withdrawal](computer-information/crypto-withdrawal.md)
+
+## MOBILE INFORMATION
+
+* [Buy Coin](mobile-information/buy-coin.md)
+* [Trade Earn Win](mobile-information/trade-earn-win.md)
+* [Create A Wallet](mobile-information/create-a-wallet.md)
+* [Crypto Withdrawal](mobile-information/crypto-withdrawal.md)
 
 ## What is KYC and AUDIT
 

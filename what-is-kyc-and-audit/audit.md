@@ -6,15 +6,15 @@
 
 
 
-_Because smart contracts are immutable and cannot be _**changed**_ once deployed; code security needs to be _**perfected**_ before release. A single bug or vulnerability could misuse funds or give _**hackers**_ opportunities to exploit the contract._
+_Because smart contracts are immutable and cannot be_ **changed** _once deployed; code security needs to be_ **perfected** _before release. A single bug or vulnerability could misuse funds or give_ **hackers** _opportunities to exploit the contract._
 
 __
 
-_The biggest _**hack**_ in the _**crypto world**_ so far took place this August. Different tokens worth $600 million from _**Poly Network**_, a cryptocurrency platform, were seized by a hacker. After a certain period of time, the _**hacker**_ returned these tokens and the platform users' grievances were resolved._
+_The biggest_ **hack** _in the_ **crypto world** _so far took place this August. Different tokens worth $600 million from_ **Poly Network**_, a cryptocurrency platform, were seized by a hacker. After a certain period of time, the_ **hacker** _returned these tokens and the platform users' grievances were resolved._
 
 __
 
-_However, this big event once again reminded all crypto users of the importance of using a _**secure**_ platform. So how can project owners and users know whether blockchain protocols and smart contracts are reliable enough? We may not have the technical knowledge to perform the necessary checks. This is where _**Audit**_ companies come into play._
+_However, this big event once again reminded all crypto users of the importance of using a_ **secure** _platform. So how can project owners and users know whether blockchain protocols and smart contracts are reliable enough? We may not have the technical knowledge to perform the necessary checks. This is where_ **Audit** _companies come into play._
 
 ## Why is the AUDIT process important?
 

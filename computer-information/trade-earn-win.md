@@ -2,7 +2,7 @@
 
 ![You can take advantage of the benefits by following the steps below.](<../.gitbook/assets/1500x500  - trade-earn-win.jpg>)
 
-## You can follow the steps below to lock the OCW you have received through your registered account.
+## &#x20;How To Earn With Staking?
 
 ![](<../.gitbook/assets/1 (4).png>)
 
@@ -10,9 +10,9 @@ _Head to the stake page with the panel on the left of the screen, it should be n
 
 
 
-**Package 1**: **OCW stake BUSD earn package**, _day limit is_ **120** _days._ **80% APR**&#x20;
+**Package 1**: **OCW stake BUSD earn package**, _day limit is_ **120** _days._ **60% APR**&#x20;
 
-**Package 2**: **OCW stake OCW boiler package**, _day limit is_ **360** _days._ **240% APR**
+**Package 2**: **OCW stake OCW boiler package**, _day limit is_ **360** _days._ **210% APR**
 
 
 
